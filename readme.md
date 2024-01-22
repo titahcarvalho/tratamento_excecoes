@@ -1,0 +1,1 @@
+Programa enviado pela professora Gilda para explicação do Tratamento de Exceções em Java. 
